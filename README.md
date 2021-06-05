@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TLimmer19
+- 👋 Hi, I’m Thomas
 - 👀 I’m interested in cryptocurrency
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
