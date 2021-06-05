@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in cryptocurrency
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
